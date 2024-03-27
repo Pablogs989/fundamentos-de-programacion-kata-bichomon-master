@@ -1,3 +1,4 @@
+console.log("-----1-----");
 console.log(document.title);
 let val;
 val = document.querySelector('.infocard');
